@@ -22,3 +22,6 @@ font-weight:bold;
 .resultItem:hover {
     border-left: 5px solid #443328;
 }
+.new{
+    color:black;
+}
